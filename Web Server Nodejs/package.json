@@ -1,0 +1,21 @@
+{
+  "name": "web-server-nodejs",
+  "version": "1.0.0",
+  "description": "this is the data selfie app by Joey Lee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Junior Isabel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.7.0"
+  }
+}
